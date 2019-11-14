@@ -23,14 +23,14 @@ get_header();
         <header id="header">
             <div class="container">
                 <div id="mySidenav" class="sidenav">
-                  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                  <a href="javascript:void(0)" class="closebtn" onclick="closeNav();">&times;</a>
                   <a href="#about">About</a>
                   <a href="#event">Event</a>
                   <a href="#menu-list">Menu</a>
                   <a href="#contact">Book a table</a>
                 </div>
                 <!-- Use any element to open the sidenav -->
-                <span onclick="openNav()" class="pull-right menu-icon">☰</span>
+                <!-- <span onclick="openNav()" class="pull-right menu-icon">☰</span> -->
             </div>
         </header>
         <div class="container">
