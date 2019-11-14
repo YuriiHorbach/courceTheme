@@ -71,7 +71,7 @@ get_header();
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
-                        <img src="img/res01.jpg" alt="" class="img-responsive">
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/img/res01.jpg" alt="" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -91,7 +91,7 @@ get_header();
                     <div class="col-md-12" style="padding-bottom:60px;">
                         <div class="item active left">
                           <div class="col-md-6 col-sm-6 left-images">
-                           <img src="img/res02.jpg" class="img-responsive">
+                           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/res02.jpg" class="img-responsive">
                          </div>
                          <div class="col-md-6 col-sm-6 details-text">
                           <div class="content-holder">
