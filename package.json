@@ -19,7 +19,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.4.1",
     "font-awesome": "^4.7.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-imagemin": "^6.2.0",
     "gulp-sass": "^3.2.1",
     "gulp-watch": "^4.3.11"
